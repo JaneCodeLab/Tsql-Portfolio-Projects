@@ -17,7 +17,7 @@ Make sure the following tools are installed on your system:
 ## 📥 Step 1: Download AdventureWorks `.bak` File
 
 1. Go to the official Microsoft repository:  
-   👉 [https://github.com/Microsoft/sql-server-samples](https://github.com/Microsoft/sql-server-samples)
+   👉 [https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 
 2. Navigate to:  
    `samples/databases/adventure-works/oltp-install-script`
