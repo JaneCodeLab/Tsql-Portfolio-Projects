@@ -39,5 +39,5 @@ CROSS APPLY (
                 CASE 
                     WHEN sl_ord_hdr.TotalDue > 0 THEN sl_ord_hdr.TaxAmt / sl_ord_hdr.TotalDue
                     ELSE 0
-                END              AS EstimatedTaxRate
-			 )                       AS calculated_tax;
+                END                   AS EstimatedTaxRate
+              )                       AS calculated_tax;
