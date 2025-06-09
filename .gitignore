@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/Tsql-Portfolio-Projects/FileContentIndex/04167077-7b0f-4e53-aaea-59da8bfc6bec.vsidx
+/.vs/Tsql-Portfolio-Projects/FileContentIndex/5cb98344-63af-4879-a1e4-f6ddff81b609.vsidx
+/.vs/Tsql-Portfolio-Projects/FileContentIndex/8d01e525-20a9-4424-a95d-afbeed6c7cd4.vsidx
+/.vs/Tsql-Portfolio-Projects/v17/.wsuo
